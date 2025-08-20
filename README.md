@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aakash Sangani
 - 👀 I'm passionate about developing applications to assist people, especially leveraging cloud services. I have experience with Java and Node.js for web apps, and I'm now diving into Large Language Models (LLMs)
-- 🌱 I’m currently working on a social media platform [ArtCircle](https://github.com/SanganiAak/ArtCircle) ,building various chatbots for different use cases, also infrastructure for these aplications.
 - 💞️ I'm keen to collaborate on automating deployment workflows for diverse applications. I'm also drawn to projects that are both intriguing and meaningful, where we can leverage our skills to make a real difference
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/aakash-sangani/)
 ### Seeking Opportunities
